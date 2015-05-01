@@ -1,0 +1,25 @@
+{
+  "name": "thumbnail-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliabbas/react-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliabbas/react-concepts/issues"
+  },
+  "homepage": "https://github.com/aliabbas/react-concepts",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-react": "^3.0.1",
+    "react": "^0.13.2"
+  }
+}
