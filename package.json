@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/aliabbas/react-concepts",
   "dependencies": {
+    "browserify": "^10.0.0",
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",
     "gulp-react": "^3.0.1",
-    "react": "^0.13.2"
+    "gulp-util": "^3.0.4",
+    "react": "^0.13.2",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.1"
   }
 }
