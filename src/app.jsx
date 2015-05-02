@@ -1,3 +1,6 @@
+var React = require('react'),
+  ThumbnailList = require('./thumbnail-list');
+
 var options = {
   thumbnailData: [{
     title: 'Sent',
@@ -7,7 +10,7 @@ var options = {
     imageUrl: 'https://facebook.github.io/react/img/logo_og.png'
   }, {
     title: 'Gulp',
-    number: 25,
+    number: 250,
     header: 'Learn Gulp',
     description: 'Gulp will speed up your development workflow',
     imageUrl: 'https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png'
